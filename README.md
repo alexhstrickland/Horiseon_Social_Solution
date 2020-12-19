@@ -20,5 +20,5 @@ THe final task of the project was to provide adequate commenting to the html and
 
 ## Usage
 
-When accessing the website, you can click any of the links in the upper right corner to access specific content on the page. If you would like to view a screenshot of the website, check out [Website Screenshot](assets/images/screenshot_website.png).
+When accessing the website, you can click any of the links in the upper right corner to access specific content on the page. If you would like to view a screenshot of the website, check out ![Website Screenshot](assets/images/screenshot_website.png).
 
